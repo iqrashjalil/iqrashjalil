@@ -25,8 +25,6 @@ A Passionate Frontend Developer From Pakistan.I am currently working on Flutter.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iqrashjalil&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 
 
